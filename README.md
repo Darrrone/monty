@@ -52,4 +52,6 @@ julien@ubuntu:~/monty$
 ```monty filename```
 
 ## AUTHORS<br/>
-OLUWADARA ADESANMI<br/>
+Beta Hassan<br/>
+Omar || Njagi Ndungo
+
